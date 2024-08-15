@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.t{
+  border: 1px solid tomato;
+}
+::-webkit-scrollbar{
+  width: 5px;
+  color: aliceblue;
+}
